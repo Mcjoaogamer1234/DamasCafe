@@ -1,0 +1,47 @@
+* {
+    padding: 10;
+    margin: 10;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2A2D2D;
+    margin-left: 35px;
+    
+}
+
+h1 { 
+    color: #CFA599;
+}
+
+h2 {
+    color: #CFA599;
+    
+}
+
+p {
+    color: white;
+    text-indent: 20px;
+}
+
+ul li {
+    color: white;
+}
+
+nav {
+    color: #CFA599;
+    font-family: 'Caveat', cursive;
+    display: flex;
+    gap: 65px;
+    margin-top: 75px;
+    justify-content: center;
+}
+
+img {
+    width: 270px;
+    height: 250px;
+}
+
+span {
+    font-size: 30px;
+}
